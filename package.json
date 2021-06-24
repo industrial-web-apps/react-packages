@@ -1,6 +1,6 @@
 {
   "name": "react-packages",
-  "version": 1,
+  "version": "2.3.1",
   "description": "Meteor packages for a great React developer experience",
   "scripts": {
     "lint": "eslint . || true"
